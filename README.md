@@ -26,6 +26,14 @@ Performance visualisations
 
 	![PR Curve](images/pr_curve.png)
 
+- Precision–Recall vs Threshold (OOF):
+
+	![PR vs Threshold](images/precision_recall_vs_threshold.png)
+
+- OOF Precision–Recall curve:
+
+	![OOF PR Curve](images/pr_curve_oof.png)
+
 - Confusion matrix at the selected threshold:
 
 	![Confusion Matrix](images/confusion_matrix.png)
