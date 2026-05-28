@@ -20,6 +20,16 @@ Files included
 - `requirements.txt` — Python dependencies
 - `images/overview.svg` — simple visual summary
 
+Performance visualisations
+
+- Precision–Recall curve (train):
+
+	![PR Curve](images/pr_curve.png)
+
+- Confusion matrix at the selected threshold:
+
+	![Confusion Matrix](images/confusion_matrix.png)
+
 Quick start (Windows PowerShell)
 
 ```powershell
